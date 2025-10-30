@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/Koin-000000?style=for-the-badge&logo=kotlin" />
 </p>
 
+<p align="center">
+  <img alt="image" src="art/header.png" />
+</p>
+
 Android|iOS
 --|--
 ![Android](art/Android.gif) | ![iOS](art/iOS.gif)
